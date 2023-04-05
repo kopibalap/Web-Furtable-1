@@ -14,98 +14,10 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/home ', function () {
+Route::get('/home', function () {
     return view('catalog.home');
 });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Route::get('/ProductIterasi ', function () {
-    return view('catalog.product-iterasi');
-});
-
-
-
-//Route::get('/ProductIterasi', 'ProductiterasimodelController@index');
+Route::get('/tentang', function () {
+    return view('catalog.tentang');
+}); 
