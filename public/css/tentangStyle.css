@@ -527,7 +527,7 @@ body {
     font-size: 1.5rem;
 }
 
-.populer .container .card p {
+.populer .container .card p { 
     font-family: 'Lato';
     font-style: normal;
     font-weight: 400;
