@@ -29,7 +29,7 @@
     <title>Tentang Kami | FURTABLE</title>
 
     <!-- Logo Web -->
-    <link rel="shortcut icon" type="image/icon" href="img/logo.png" />
+    <link rel="shortcut icon" type="image/icon" href="img/tentang/logo.png" />
 </head>
 
 <body>
@@ -37,12 +37,12 @@
     <nav class="navbar">
         <div>
             <a href="#" class="navbar-logo">
-                <img src="img/logo.png" alt="logo" width="30" height="24" class="d-inline-block align-text-top">
+                <img src="img/tentang/logo.png" alt="logo" width="30" height="24" class="d-inline-block align-text-top">
                 FURTABLE
             </a>
     
             <div class="navbar-nav">
-                <a href="#home">Home</a>
+                <a href="/home">Home</a>
                 <a href="#Product">Product</a>
                 <a href="#Tentang">Tentang</a>
             </div>
@@ -50,7 +50,7 @@
 
         <div class="navbar-extra">
             <div class="search-box">
-                <a><img src="img/assets(svg)/icon-search-search-normal.svg" /></a>
+                <a><img src="img/tentang/assets(svg)/icon-search-search-normal.svg" /></a>
                 <input type="search" placeholder="Search" />
             </div>
             <a href="#" id="hamburger-menu" class="menu"><i data-feather="menu"></i></a>
@@ -60,7 +60,7 @@
 
     <!--header orang -->
     <section class="hero">
-        <img src="./img/Tentang(png)/hero.png" alt="">
+        <img src="./img/tentang/Tentang(png)/hero.png" alt="">
         <div class="text">
             <h1>Sekilas Tentang Furtable dan Teamnya</h1>
             <p>Apa sih furtable, tujuannya apa, dan siapa saja anggotanya?</p>
@@ -71,7 +71,7 @@
     <section class="apaitu">
         <h1>Apa Itu Furtable?</h1>
         <div class="desc">
-            <img src="./img/Tentang(png)/furtable.png" alt="">
+            <img src="./img/tentang/Tentang(png)/furtable.png" alt="">
             <p>Furtable merupakan sebuah aplikasi berupa platform yang menjadi tempat jual beli furniture secara online yang menawarkan berbagai jenis furniture yang dapat memenuhi kebutuhan pengguna dalam mendekorasi dan melengkapi ruangan mereka dari berbagai jenis bahan dan kualitas. Furtable juga menyediakan produk-produk kustom, di mana konsumen dapat memesan barang yang dipersonalisasi sesuai dengan kebutuhan dan preferensi mereka. Selain itu, pada Furtable dapat melacak lokasi barang yang memungkinkan pengguna untuk melacak status pengiriman dan memantau pergerakan barang yang mereka beli.</p>
         </div>
     </section>
@@ -80,7 +80,7 @@
     <section class="goals">
         <h1>Goals dari Furtable</h1>
         <div class="isi">
-            <img src="./img/Tentang(png)/goals.png" alt="">
+            <img src="./img/tentang/Tentang(png)/goals.png" alt="">
             <p>Tujuan dari terbentuknya Furtable adalah sebagai penyedia layanan yang handal dengan pengiriman keseluruh indonesia sehinga membuat para pelanggan merasa tidak terbebani dengan pengiriman, pelanggan juga bisa meng custom desain dari furniture yang mereka akan beli, sehingga tidak perlu khawatir dengan furniture lama yang telah rusak, furniture anda rusak? ganti dengan baru yang sama 90% dengan furniture lama anda.</p>
         </div>
     </section>
@@ -94,7 +94,7 @@
         <div class="container">
             <div class="card">
                 <div class="inner-card">
-                    <img src="img/Tentang(png)/adhi-tentang.png">
+                    <img src="img/tentang/Tentang(png)/adhi-tentang.png">
                 </div>
                 <div class="tulisan">
                     <h3>Adhiyaksa Satria H</h3>
@@ -103,7 +103,7 @@
             </div>
             <div class="card">
                 <div class="inner-card">
-                    <img src="img/Tentang(png)/arjun-tentang.png">
+                    <img src="img/tentang/Tentang(png)/arjun-tentang.png">
                 </div>
                 <div class="tulisan">
                     <h3>Arjun</h3>
@@ -112,7 +112,7 @@
             </div>
             <div class="card">
                 <div class="inner-card">
-                    <img src="img/Tentang(png)/najib-tentang.png">
+                    <img src="img/tentang/Tentang(png)/najib-tentang.png">
                 </div>
                 <div class="tulisan">
                     <h3>Najib Jamil A</h3>
@@ -121,7 +121,7 @@
             </div>
             <div class="card">
                 <div class="inner-card">
-                    <img src="img/Tentang(png)/rahma-tentang.png">
+                    <img src="img/tentang/Tentang(png)/rahma-tentang.png">
                 </div>
                 <div class="tulisan">
                     <h3>Rahmalia Rahadi</h3>
@@ -130,7 +130,7 @@
             </div>
             <div class="card">
                 <div class="inner-card">
-                    <img src="img/Tentang(png)/ara-tentang.png">
+                    <img src="img/tentang/Tentang(png)/ara-tentang.png">
                 </div>
                 <div class="tulisan">
                     <h3>Tiara Firdausa A</h3>
@@ -148,19 +148,19 @@
         </div>
         <div class="container">
             <div class="kotak">
-                <img src="./img/assets-icon/fb.png" alt="">
+                <img src="./img/tentang/assets-icon/fb.png" alt="">
                 <p>FurtableIndonesia</p>
             </div>
             <div class="kotak">
-                <img src="./img/assets-icon/ig.png" alt="">
+                <img src="./img/tentang/assets-icon/ig.png" alt="">
                 <p>FurtableIndonesia</p>
             </div>
             <div class="kotak">
-                <img src="./img/assets-icon/twt.png" alt="">
+                <img src="./img/tentang/assets-icon/twt.png" alt="">
                 <p>FurtableIndonesia</p>
             </div>
             <div class="kotak">
-                <img src="./img/assets-icon/tiktok.png" alt="">
+                <img src="./img/tentang/assets-icon/tiktok.png" alt="">
                 <p>FurtableIndonesia</p>
             </div>
         </div>
@@ -174,7 +174,7 @@
             <a href="#" class="cta">Belanja Sekarang</a>
         </div>
         <div class="down-img">
-            <img src="./img/Tentang(png)/dwonload.png">
+            <img src="./img/tentang/Tentang(png)/dwonload.png">
         </div>
     </section>
 
@@ -183,7 +183,7 @@
         <h1>Produk Populer</h1>
         <div class="container">
             <div class="card">
-                <img src="img/assets(png)/populer1.png">
+                <img src="img/tentang/assets(png)/populer1.png">
                 <div class="deskripsi">
                     <h4>Kursi kayu jati</h4>
                     <h3>Kursi kayu jati</h3>
@@ -192,7 +192,7 @@
                 <p>Lihat detail</p>
             </div>
             <div class="card">
-                <img src="img/assets(png)/populer2.png">
+                <img src="img/tentang/assets(png)/populer2.png">
                 <div class="deskripsi">
                     <h4>Kursi kayu jati</h4>
                     <h3>Kursi kayu jati</h3>
@@ -201,7 +201,7 @@
                 <p>Lihat detail</p>
             </div>
             <div class="card">
-                <img src="img/assets(png)/populer3.png">
+                <img src="img/tentang/assets(png)/populer3.png">
                 <div class="deskripsi">
                     <h4>Kursi kayu jati</h4>
                     <h3>Kursi kayu jati</h3>
@@ -210,7 +210,7 @@
                 <p>Lihat detail</p>
             </div>
             <div class="card">
-                <img src="img/assets(png)/populer4.png">
+                <img src="img/tentang/assets(png)/populer4.png">
                 <div class="deskripsi">
                     <h4>Kursi kayu jati</h4>
                     <h3>Kursi kayu jati</h3>
@@ -243,7 +243,7 @@
                     <div class="col">
                         <!--Column1-->
                         <div class="footer-pad">
-                            <img src="./img/assets-icon/logowhite.png">
+                            <img src="./img/tentang/assets-icon/logowhite.png">
                             <ul class="list-unstyled">
                                 <li><a href="#">Tentang Kami</a></li>
                                 <li><a href="#">Sosial Media</a></li>
@@ -257,7 +257,7 @@
                             <div class="list-unstyled" >
                                 <h5>Download Furtable di Playstore dan dapatkan diskon melimpah.</h5>
                             </div>
-                            <img src="img/assets-icon/playstore.png">
+                            <a href="https://play.google.com/store/apps?hl=id""><img src="img/tentang/assets-icon/playstore.png"></a>
                         </div>
                     </div>
                 </div>
