@@ -44,7 +44,7 @@
             <div class="navbar-nav">
                 <a href="#home">Home</a>
                 <a href="#Product">Product</a>
-                <a href="#Tentang">Tentang</a>
+                <a href="/tentang">Tentang</a>
             </div>
         </div>
 
