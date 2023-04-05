@@ -19,4 +19,4 @@ Route::get('/home', function () {
 
 Route::get('/tentang', function () {
     return view('catalog.tentang');
-});
+}); 

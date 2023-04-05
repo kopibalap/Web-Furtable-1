@@ -45,7 +45,7 @@
                 <a href="#home">Home</a>
                 <a href="#Product">Product</a>
                 <a href="/tentang">Tentang</a>
-            </div>
+            </div> 
         </div>
 
         <div class="navbar-extra">
